@@ -1,0 +1,12 @@
+# Exemple : le script de préparation génère le chemin absolu approprié.
+path: datasets/shark_sentinel_aerial
+train: images/train
+val: images/val
+names:
+  0: shark
+  1: dolphin
+  2: whale
+  3: turtle
+  4: surfer
+  5: swimmer
+  6: rock
