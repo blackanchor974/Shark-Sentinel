@@ -1,5 +1,7 @@
 # Shark Sentinel
 
+![Shark Sentinel — projet expérimental de détection de requins par IA](assets/shark-sentinel-teaser.png)
+
 Détection expérimentale de requins et d'objets marins en vue aérienne, développée par Black Anchor (https://blackanchor.re).
 
 Ce dépôt contient le code d'extraction, d'entraînement et de détection, un notebook Colab et les poids du modèle aérien YOLO11n. Le dataset, les annotations, les vidéos sources et les historiques d'entraînement ne sont pas distribués.
